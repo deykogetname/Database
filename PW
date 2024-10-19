@@ -1,7 +1,22 @@
 {
-  "users": "cracked" [
+  "users": [
     {
-      "password": "crackedbymeliodasnahh"
+      "whatsappNumber": "08566227355",
+      "password": "owner"
+    },
+    {
+      "whatsappNumber": "089506413460",
+      "password": "owner123"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "08566227355",
+      "token": "owner"
+    },
+    {
+      "whatsappNumber": "089506413460",
+      "token": "owner123"
     }
   ]
 }
